@@ -1,0 +1,6 @@
+[
+  { "passportId": 1, "cash": 19000010, "credit": 0 },
+  { "passportId": 2, "cash": 19000000, "credit": 0 },
+  { "passportId": 3, "cash": 100, "credit": 100 },
+  { "passportId": 4, "cash": 1, "credit": 100 }
+]
