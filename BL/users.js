@@ -1,5 +1,5 @@
 const Users = require("../models/users");
-const { v4: uuidv4 } = require("uuid");
+// const { v4: uuidv4 } = require("uuid");
 
 const getAllUsersAsync = async () => {
   const users = await Users.find();
